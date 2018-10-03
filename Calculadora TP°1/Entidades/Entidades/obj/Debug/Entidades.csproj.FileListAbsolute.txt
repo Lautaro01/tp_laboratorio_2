@@ -1,0 +1,13 @@
+C:\Users\Lauty uwu\source\repos\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Lauty uwu\source\repos\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\Lauty uwu\source\repos\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lauty uwu\source\repos\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lauty uwu\source\repos\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lauty uwu\source\repos\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\Lauty uwu\source\repos\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\Entidades\bin\Debug\Entidades.exe
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\Entidades\obj\Debug\Entidades.exe
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\Entidades\obj\Debug\Entidades.pdb

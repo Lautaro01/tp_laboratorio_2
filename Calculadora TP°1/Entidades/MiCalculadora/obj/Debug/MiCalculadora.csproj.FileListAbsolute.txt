@@ -1,0 +1,28 @@
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\Lauty uwu\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\bin\Debug\Entidades.exe
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\bin\Debug\Entidades.exe.config
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Programasao\C#\Trabajos Practicos\Calculadora TP°1\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
