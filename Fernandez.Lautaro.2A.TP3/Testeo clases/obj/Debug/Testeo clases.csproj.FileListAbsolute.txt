@@ -1,0 +1,16 @@
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Testeo clases.exe.config
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Testeo clases.exe
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Testeo clases.pdb
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Archivos.dll
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Clases Abstractas.dll
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Clases Instanciables.dll
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Excepciones.dll
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Archivos.pdb
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Clases Instanciables.pdb
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\bin\Debug\Excepciones.pdb
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\obj\Debug\Testeo clases.csprojAssemblyReference.cache
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\obj\Debug\Testeo clases.csproj.CoreCompileInputs.cache
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\obj\Debug\Testeo clases.csproj.CopyComplete
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\obj\Debug\Testeo clases.exe
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP3\Testeo clases\obj\Debug\Testeo clases.pdb
