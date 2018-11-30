@@ -1,0 +1,14 @@
+C:\Users\Lauty uwu\source\repos\Correo UTN por Lautaro.Fernandez.2A\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lauty uwu\source\repos\Correo UTN por Lautaro.Fernandez.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lauty uwu\source\repos\Correo UTN por Lautaro.Fernandez.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lauty uwu\source\repos\Correo UTN por Lautaro.Fernandez.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lauty uwu\source\repos\Correo UTN por Lautaro.Fernandez.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lauty uwu\source\repos\Correo UTN por Lautaro.Fernandez.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lauty uwu\source\repos\Correo UTN por Lautaro.Fernandez.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lauty uwu\source\repos\Fernandez.Lautaro.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
